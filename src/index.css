@@ -1,0 +1,13 @@
+
+@font-face {
+   font-family: personalizada;
+   src: url('./font/Kardust.otf') format('opentype'), url('./font/KardustBold.otf') format('opentype');
+}
+
+body {
+   margin: 0;
+   padding: 0;
+   background-color: #000002;
+}
+
+
